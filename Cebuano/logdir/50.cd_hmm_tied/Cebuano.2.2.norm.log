@@ -1,0 +1,70 @@
+Current configuration:
+[NAME]		[DEFLT]	[VALUE]
+-accumdir		/mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_1,/mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_10,/mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_2,/mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_3,/mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_4,/mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_5,/mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_6,/mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_7,/mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_8,/mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_9,
+-constE		3.0	3.000000e+00
+-dcountfn		
+-example	no	no
+-fullvar	no	no
+-help		no	no
+-inmeanfn		
+-inmixwfn		
+-invarfn		
+-meanfn			/mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/model_parameters/Cebuano.cd_cont_200/means
+-mixwfn			/mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/model_parameters/Cebuano.cd_cont_200/mixture_weights
+-mmie		no	no
+-oaccumdir		
+-regmatfn		
+-tiedvar	no	no
+-tmatfn			/mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/model_parameters/Cebuano.cd_cont_200/transition_matrices
+-varfn			/mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/model_parameters/Cebuano.cd_cont_200/variances
+
+INFO: main.c(207): Reading and accumulating counts from /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_1
+INFO: s3mixw_io.c(116): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_1/mixw_counts [320x1x2 array]
+INFO: s3tmat_io.c(117): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_1/tmat_counts [40x3x4 array]
+INFO: s3gau_io.c(381): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_1/gauden_counts with means with vars (2pass) [320x1x2 vector arrays]
+INFO: main.c(207): Reading and accumulating counts from /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_10
+INFO: s3mixw_io.c(116): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_10/mixw_counts [320x1x2 array]
+INFO: s3tmat_io.c(117): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_10/tmat_counts [40x3x4 array]
+INFO: s3gau_io.c(381): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_10/gauden_counts with means with vars (2pass) [320x1x2 vector arrays]
+INFO: main.c(207): Reading and accumulating counts from /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_2
+INFO: s3mixw_io.c(116): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_2/mixw_counts [320x1x2 array]
+INFO: s3tmat_io.c(117): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_2/tmat_counts [40x3x4 array]
+INFO: s3gau_io.c(381): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_2/gauden_counts with means with vars (2pass) [320x1x2 vector arrays]
+INFO: main.c(207): Reading and accumulating counts from /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_3
+INFO: s3mixw_io.c(116): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_3/mixw_counts [320x1x2 array]
+INFO: s3tmat_io.c(117): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_3/tmat_counts [40x3x4 array]
+INFO: s3gau_io.c(381): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_3/gauden_counts with means with vars (2pass) [320x1x2 vector arrays]
+INFO: main.c(207): Reading and accumulating counts from /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_4
+INFO: s3mixw_io.c(116): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_4/mixw_counts [320x1x2 array]
+INFO: s3tmat_io.c(117): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_4/tmat_counts [40x3x4 array]
+INFO: s3gau_io.c(381): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_4/gauden_counts with means with vars (2pass) [320x1x2 vector arrays]
+INFO: main.c(207): Reading and accumulating counts from /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_5
+INFO: s3mixw_io.c(116): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_5/mixw_counts [320x1x2 array]
+INFO: s3tmat_io.c(117): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_5/tmat_counts [40x3x4 array]
+INFO: s3gau_io.c(381): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_5/gauden_counts with means with vars (2pass) [320x1x2 vector arrays]
+INFO: main.c(207): Reading and accumulating counts from /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_6
+INFO: s3mixw_io.c(116): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_6/mixw_counts [320x1x2 array]
+INFO: s3tmat_io.c(117): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_6/tmat_counts [40x3x4 array]
+INFO: s3gau_io.c(381): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_6/gauden_counts with means with vars (2pass) [320x1x2 vector arrays]
+INFO: main.c(207): Reading and accumulating counts from /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_7
+INFO: s3mixw_io.c(116): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_7/mixw_counts [320x1x2 array]
+INFO: s3tmat_io.c(117): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_7/tmat_counts [40x3x4 array]
+INFO: s3gau_io.c(381): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_7/gauden_counts with means with vars (2pass) [320x1x2 vector arrays]
+INFO: main.c(207): Reading and accumulating counts from /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_8
+INFO: s3mixw_io.c(116): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_8/mixw_counts [320x1x2 array]
+INFO: s3tmat_io.c(117): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_8/tmat_counts [40x3x4 array]
+INFO: s3gau_io.c(381): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_8/gauden_counts with means with vars (2pass) [320x1x2 vector arrays]
+INFO: main.c(207): Reading and accumulating counts from /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_9
+INFO: s3mixw_io.c(116): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_9/mixw_counts [320x1x2 array]
+INFO: s3tmat_io.c(117): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_9/tmat_counts [40x3x4 array]
+INFO: s3gau_io.c(381): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_9/gauden_counts with means with vars (2pass) [320x1x2 vector arrays]
+INFO: main.c(321): -2passvar yes
+INFO: main.c(390): Normalizing mean for n_mgau= 320, n_stream= 1, n_density= 2
+INFO: main.c(414): Normalizing var
+INFO: s3mixw_io.c(232): Wrote /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/model_parameters/Cebuano.cd_cont_200/mixture_weights [320x1x2 array]
+INFO: s3tmat_io.c(175): Wrote /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/model_parameters/Cebuano.cd_cont_200/transition_matrices [40x3x4 array]
+INFO: s3gau_io.c(228): Wrote /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/model_parameters/Cebuano.cd_cont_200/means [320x1x2 array]
+INFO: s3gau_io.c(228): Wrote /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/model_parameters/Cebuano.cd_cont_200/variances [320x1x2 array]
+Fri Jan  6 22:35:32 2023
+Current Overall Likelihood Per Frame = -153.049625596857
+Convergence ratio = 0.537402260471509

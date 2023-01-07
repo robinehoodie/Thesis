@@ -1,0 +1,547 @@
+Current configuration:
+[NAME]			[DEFLT]		[VALUE]
+-alpha			0.97		9.700000e-01
+-argfile				
+-blocksize		2048		2048
+-build_outdirs		yes		yes
+-c					/mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/etc/Cebuano_test.fileids
+-cep2spec		no		no
+-di					/mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav
+-dither			no		no
+-do					/mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat
+-doublebw		no		no
+-ei					wav
+-eo					mfc
+-example		no		no
+-frate			100		100
+-help			no		no
+-i					
+-input_endian		little		little
+-lifter			0		22
+-logspec		no		no
+-lowerf			133.33334	1.300000e+02
+-mach_endian		little		little
+-mswav			no		yes
+-ncep			13		13
+-nchans			1		1
+-nfft			512		512
+-nfilt			40		25
+-nist			no		no
+-npart			0		10
+-nskip			0		0
+-o					
+-ofmt			sphinx		sphinx
+-part			0		8
+-raw			no		no
+-remove_dc		no		no
+-remove_noise		yes		yes
+-remove_silence		no		no
+-round_filters		yes		yes
+-runlen			-1		-1
+-samprate		16000		1.600000e+04
+-seed			-1		-1
+-smoothspec		no		no
+-sox			no		no
+-spec2cep		no		no
+-sph2pipe		no		no
+-transform		legacy		dct
+-unit_area		yes		yes
+-upperf			6855.4976	6.800000e+03
+-vad_postspeech		50		50
+-vad_prespeech		20		20
+-vad_startspeech	10		10
+-vad_threshold		3.0		3.000000e+00
+-verbose		no		no
+-warp_params				
+-warp_type		inverse_linear	inverse_linear
+-whichchan		0		0
+-wlen			0.025625	2.562500e-02
+
+INFO: sphinx_fe.c(1004): Processing 486 utterances at position 3402
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0124.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0124.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0153.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0153.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0155.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0155.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0163.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0163.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0165.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0165.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0193.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0193.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0196.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0196.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0263.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0263.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0272.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0272.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0275.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0275.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0280.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0280.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0286.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0286.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0295.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0295.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0297.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0297.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0298.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0298.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0301.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0301.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0305.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0305.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0309.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0309.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0311.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0311.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0328.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0328.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0329.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0329.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0330.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0330.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0336.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0336.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0342.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0342.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0343.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0343.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0349.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0349.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0351.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0351.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0353.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0353.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0354.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0354.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0355.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0355.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0367.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0367.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0369.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0369.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0373.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0373.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0374.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0374.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0375.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0375.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0377.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0377.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0379.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0379.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0380.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0380.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0389.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0389.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0401.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0401.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0414.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0414.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0416.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0416.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0428.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0428.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0435.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0435.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0438.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0438.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0441.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0441.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0447.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0447.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0448.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0448.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0449.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0449.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0463.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0463.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0467.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0467.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0478.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0478.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea/5935.111026.055115.0483.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea/5935.111026.055115.0483.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0022.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0022.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0025.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0025.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0027.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0027.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0030.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0030.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0037.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0037.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0043.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0043.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0044.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0044.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0073.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0073.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0074.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0074.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0079.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0079.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0106.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0106.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0109.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0109.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0120.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0120.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0128.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0128.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0132.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0132.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0134.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0134.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0166.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0166.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0172.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0172.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0177.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0177.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0178.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0178.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0181.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0181.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0182.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0182.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0213.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0213.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0214.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0214.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0219.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0219.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0289.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0289.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0291.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0291.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0294.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0294.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0302.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0302.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0303.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0303.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0304.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0304.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0327.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0327.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0332.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0332.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0333.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0333.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0338.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0338.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0346.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0346.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0348.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0348.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0350.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0350.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0358.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0358.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0361.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0361.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0362.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0362.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0364.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0364.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0368.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0368.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0373.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0373.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0376.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0376.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0381.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0381.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0384.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0384.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0385.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0385.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0387.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0387.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0388.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0388.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0389.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0389.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0391.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0391.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0410.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0410.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0411.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0411.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0412.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0412.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0421.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0421.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0429.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0429.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0442.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0442.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0444.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0444.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0446.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0446.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0448.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0448.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0450.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0450.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0456.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0456.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0459.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0459.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0463.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0463.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0464.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0464.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0474.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0474.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0481.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0481.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0483.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0483.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0484.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0484.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0488.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0488.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0496.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0496.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0508.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0508.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0516.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0516.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0532.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0532.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ochea_1/6854.111028.015536.0535.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ochea_1/6854.111028.015536.0535.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0019.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0019.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0023.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0023.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0029.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0029.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0039.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0039.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0042.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0042.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0043.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0043.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0075.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0075.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0080.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0080.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0081.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0081.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0082.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0082.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0106.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0106.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0109.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0109.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0111.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0111.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0113.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0113.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0114.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0114.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0120.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0120.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0122.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0122.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0123.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0123.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0132.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0132.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0133.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0133.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0165.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0165.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0166.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0166.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0175.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0175.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0197.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0197.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0199.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0199.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0203.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0203.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0279.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0279.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0283.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0283.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0285.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0285.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0292.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0292.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0294.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0294.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0295.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0295.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0296.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0296.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0298.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0298.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0313.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0313.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0319.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0319.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0325.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0325.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0331.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0331.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0335.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0335.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0340.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0340.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0343.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0343.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0345.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0345.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0346.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0346.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0356.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0356.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0357.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0357.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0369.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0369.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0377.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0377.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0381.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0381.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0387.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0387.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0400.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0400.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0422.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0422.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0427.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0427.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0435.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0435.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0444.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0444.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0453.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0453.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0455.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0455.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0469.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0469.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0474.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0474.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0475.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0475.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0483.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0483.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0484.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0484.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0487.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0487.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0490.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0490.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0493.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0493.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0498.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0498.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0500.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0500.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0524.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0524.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0531.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0531.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoril/1398.111027.020441.0535.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoril/1398.111027.020441.0535.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0021.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0021.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0030.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0030.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0035.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0035.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0038.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0038.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0039.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0039.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0041.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0041.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0043.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0043.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0066.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0066.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0071.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0071.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0072.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0072.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0074.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0074.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0097.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0097.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0099.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0099.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0100.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0100.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0104.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0104.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0105.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0105.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0112.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0112.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0118.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0118.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0152.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0152.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0158.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0158.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0194.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0194.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0195.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0195.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0267.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0267.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0275.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0275.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0277.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0277.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0282.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0282.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0283.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0283.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0288.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0288.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0291.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0291.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0301.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0301.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0302.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0302.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0305.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0305.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0311.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0311.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0318.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0318.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0321.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0321.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0329.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0329.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0330.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0330.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0354.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0354.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0367.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0367.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0372.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0372.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0377.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0377.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0386.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0386.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0387.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0387.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0401.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0401.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0402.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0402.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0403.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0403.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0408.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0408.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0413.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0413.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0430.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0430.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0435.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0435.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0445.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0445.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0446.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0446.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0461.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0461.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0463.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0463.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0469.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0469.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pastoriza/3109.120203.022023.0473.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pastoriza/3109.120203.022023.0473.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0026.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0026.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0031.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0031.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0032.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0032.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0033.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0033.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0043.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0043.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0073.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0073.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0079.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0079.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0115.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0115.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0120.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0120.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0122.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0122.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0126.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0126.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0130.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0130.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0135.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0135.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0142.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0142.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0171.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0171.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0180.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0180.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0208.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0208.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0210.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0210.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0283.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0283.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0284.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0284.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0285.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0285.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0288.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0288.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0289.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0289.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0293.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0293.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0298.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0298.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0299.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0299.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0304.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0304.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0307.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0307.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0310.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0310.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0313.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0313.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0314.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0314.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0316.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0316.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0322.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0322.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0332.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0332.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0345.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0345.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0351.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0351.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0362.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0362.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0364.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0364.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0374.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0374.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0379.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0379.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0380.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0380.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0384.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0384.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0385.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0385.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0396.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0396.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0398.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0398.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0402.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0402.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0408.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0408.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0446.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0446.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0447.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0447.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0449.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0449.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0456.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0456.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0467.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0467.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0480.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0480.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0489.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0489.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0505.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0505.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0513.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0513.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0516.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0516.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0518.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0518.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0521.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0521.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0524.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0524.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0527.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0527.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0529.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0529.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0547.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0547.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Pomicpic/9734.120222.094039.0548.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Pomicpic/9734.120222.094039.0548.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0021.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0021.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0022.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0022.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0026.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0026.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0034.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0034.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0036.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0036.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0058.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0058.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0060.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0060.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0063.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0063.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0070.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0070.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0071.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0071.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0106.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0106.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0108.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0108.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0110.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0110.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0111.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0111.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0115.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0115.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0118.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0118.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0127.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0127.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0155.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0155.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0157.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0157.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0162.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0162.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0200.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0200.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0201.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0201.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0210.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0210.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0275.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0275.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0277.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0277.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0280.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0280.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0282.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0282.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0286.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0286.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0292.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0292.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0293.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0293.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0296.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0296.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0300.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0300.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0305.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0305.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0309.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0309.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0310.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0310.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0324.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0324.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0331.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0331.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0337.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0337.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0338.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0338.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0343.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0343.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0345.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0345.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0350.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0350.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0351.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0351.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0353.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0353.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0355.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0355.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0359.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0359.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0360.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0360.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0416.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0416.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0421.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0421.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0430.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0430.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0431.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0431.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0434.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0434.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0436.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0436.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0438.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0438.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0440.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0440.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0442.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0442.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0445.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0445.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0460.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0460.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0473.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0473.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0479.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0479.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0484.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0484.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0489.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0489.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0492.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0492.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0498.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0498.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0504.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0504.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0506.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0506.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ragot/4858.111027.032944.0511.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ragot/4858.111027.032944.0511.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0015.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0015.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0016.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0016.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0018.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0018.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0024.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0024.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0032.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0032.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0034.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0034.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0036.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0036.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0058.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0058.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0059.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0059.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0065.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0065.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0071.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0071.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0095.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0095.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0097.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0097.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0103.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0103.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0105.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0105.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0107.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0107.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0113.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0113.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0121.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0121.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0143.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0143.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0149.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0149.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0150.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0150.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0156.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0156.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0189.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0189.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0195.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0195.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0196.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0196.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0263.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0263.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0265.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0265.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0271.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0271.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0275.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0275.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0279.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0279.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0282.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0282.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0294.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0294.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0309.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0309.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0310.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0310.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0316.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0316.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0324.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0324.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0327.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0327.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0334.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0334.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0336.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0336.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0337.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0337.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0342.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0342.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0348.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0348.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0353.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0353.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0356.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0356.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0360.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0360.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0367.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0367.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0377.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0377.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0382.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0382.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0384.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0384.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0388.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0388.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0392.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0392.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0430.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0430.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0443.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0443.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0453.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0453.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0461.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0461.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0464.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0464.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0471.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0471.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0479.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0479.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0480.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0480.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0483.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0483.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0492.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0492.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0505.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0505.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Rallos/8182.111028.032138.0511.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Rallos/8182.111028.032138.0511.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ramo/1187.120216.063951.0019.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ramo/1187.120216.063951.0019.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ramo/1187.120216.063951.0022.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ramo/1187.120216.063951.0022.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ramo/1187.120216.063951.0025.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ramo/1187.120216.063951.0025.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ramo/1187.120216.063951.0028.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ramo/1187.120216.063951.0028.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ramo/1187.120216.063951.0029.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ramo/1187.120216.063951.0029.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ramo/1187.120216.063951.0030.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ramo/1187.120216.063951.0030.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ramo/1187.120216.063951.0035.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ramo/1187.120216.063951.0035.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ramo/1187.120216.063951.0037.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ramo/1187.120216.063951.0037.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ramo/1187.120216.063951.0039.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ramo/1187.120216.063951.0039.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ramo/1187.120216.063951.0061.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ramo/1187.120216.063951.0061.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ramo/1187.120216.063951.0062.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ramo/1187.120216.063951.0062.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ramo/1187.120216.063951.0063.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ramo/1187.120216.063951.0063.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ramo/1187.120216.063951.0068.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ramo/1187.120216.063951.0068.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ramo/1187.120216.063951.0098.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ramo/1187.120216.063951.0098.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ramo/1187.120216.063951.0099.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ramo/1187.120216.063951.0099.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ramo/1187.120216.063951.0104.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ramo/1187.120216.063951.0104.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ramo/1187.120216.063951.0105.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ramo/1187.120216.063951.0105.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ramo/1187.120216.063951.0106.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ramo/1187.120216.063951.0106.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ramo/1187.120216.063951.0108.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ramo/1187.120216.063951.0108.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ramo/1187.120216.063951.0110.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ramo/1187.120216.063951.0110.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ramo/1187.120216.063951.0118.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ramo/1187.120216.063951.0118.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ramo/1187.120216.063951.0119.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ramo/1187.120216.063951.0119.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ramo/1187.120216.063951.0121.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ramo/1187.120216.063951.0121.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ramo/1187.120216.063951.0141.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ramo/1187.120216.063951.0141.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ramo/1187.120216.063951.0146.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ramo/1187.120216.063951.0146.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ramo/1187.120216.063951.0156.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ramo/1187.120216.063951.0156.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ramo/1187.120216.063951.0181.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ramo/1187.120216.063951.0181.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ramo/1187.120216.063951.0190.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ramo/1187.120216.063951.0190.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ramo/1187.120216.063951.0193.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ramo/1187.120216.063951.0193.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ramo/1187.120216.063951.0195.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ramo/1187.120216.063951.0195.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ramo/1187.120216.063951.0256.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ramo/1187.120216.063951.0256.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ramo/1187.120216.063951.0272.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ramo/1187.120216.063951.0272.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ramo/1187.120216.063951.0274.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ramo/1187.120216.063951.0274.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ramo/1187.120216.063951.0279.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ramo/1187.120216.063951.0279.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ramo/1187.120216.063951.0283.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ramo/1187.120216.063951.0283.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ramo/1187.120216.063951.0286.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ramo/1187.120216.063951.0286.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ramo/1187.120216.063951.0294.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ramo/1187.120216.063951.0294.mfc
+INFO: sphinx_fe.c(828): Converting /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/wav/Ramo/1187.120216.063951.0301.wav to /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/feat/Ramo/1187.120216.063951.0301.mfc
+Fri Jan  6 22:02:05 2023

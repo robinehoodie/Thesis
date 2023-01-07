@@ -1,0 +1,283 @@
+Current configuration:
+[NAME]		[DEFLT]	[VALUE]
+-accumdir		/mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_1,/mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_10,/mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_2,/mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_3,/mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_4,/mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_5,/mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_6,/mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_7,/mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_8,/mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_9,
+-constE		3.0	3.000000e+00
+-dcountfn		
+-example	no	no
+-fullvar	no	no
+-help		no	no
+-inmeanfn		
+-inmixwfn		
+-invarfn		
+-meanfn			/mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/model_parameters/Cebuano.cd_cont_untied/means
+-mixwfn			/mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/model_parameters/Cebuano.cd_cont_untied/mixture_weights
+-mmie		no	no
+-oaccumdir		
+-regmatfn		
+-tiedvar	no	no
+-tmatfn			/mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/model_parameters/Cebuano.cd_cont_untied/transition_matrices
+-varfn			/mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/model_parameters/Cebuano.cd_cont_untied/variances
+
+INFO: main.c(207): Reading and accumulating counts from /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_1
+INFO: s3mixw_io.c(116): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_1/mixw_counts [23232x1x1 array]
+INFO: s3tmat_io.c(117): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_1/tmat_counts [40x3x4 array]
+INFO: s3gau_io.c(381): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_1/gauden_counts with means with vars (2pass) [23232x1x1 vector arrays]
+INFO: main.c(207): Reading and accumulating counts from /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_10
+INFO: s3mixw_io.c(116): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_10/mixw_counts [23232x1x1 array]
+INFO: s3tmat_io.c(117): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_10/tmat_counts [40x3x4 array]
+INFO: s3gau_io.c(381): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_10/gauden_counts with means with vars (2pass) [23232x1x1 vector arrays]
+INFO: main.c(207): Reading and accumulating counts from /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_2
+INFO: s3mixw_io.c(116): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_2/mixw_counts [23232x1x1 array]
+INFO: s3tmat_io.c(117): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_2/tmat_counts [40x3x4 array]
+INFO: s3gau_io.c(381): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_2/gauden_counts with means with vars (2pass) [23232x1x1 vector arrays]
+INFO: main.c(207): Reading and accumulating counts from /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_3
+INFO: s3mixw_io.c(116): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_3/mixw_counts [23232x1x1 array]
+INFO: s3tmat_io.c(117): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_3/tmat_counts [40x3x4 array]
+INFO: s3gau_io.c(381): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_3/gauden_counts with means with vars (2pass) [23232x1x1 vector arrays]
+INFO: main.c(207): Reading and accumulating counts from /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_4
+INFO: s3mixw_io.c(116): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_4/mixw_counts [23232x1x1 array]
+INFO: s3tmat_io.c(117): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_4/tmat_counts [40x3x4 array]
+INFO: s3gau_io.c(381): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_4/gauden_counts with means with vars (2pass) [23232x1x1 vector arrays]
+INFO: main.c(207): Reading and accumulating counts from /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_5
+INFO: s3mixw_io.c(116): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_5/mixw_counts [23232x1x1 array]
+INFO: s3tmat_io.c(117): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_5/tmat_counts [40x3x4 array]
+INFO: s3gau_io.c(381): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_5/gauden_counts with means with vars (2pass) [23232x1x1 vector arrays]
+INFO: main.c(207): Reading and accumulating counts from /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_6
+INFO: s3mixw_io.c(116): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_6/mixw_counts [23232x1x1 array]
+INFO: s3tmat_io.c(117): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_6/tmat_counts [40x3x4 array]
+INFO: s3gau_io.c(381): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_6/gauden_counts with means with vars (2pass) [23232x1x1 vector arrays]
+INFO: main.c(207): Reading and accumulating counts from /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_7
+INFO: s3mixw_io.c(116): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_7/mixw_counts [23232x1x1 array]
+INFO: s3tmat_io.c(117): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_7/tmat_counts [40x3x4 array]
+INFO: s3gau_io.c(381): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_7/gauden_counts with means with vars (2pass) [23232x1x1 vector arrays]
+INFO: main.c(207): Reading and accumulating counts from /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_8
+INFO: s3mixw_io.c(116): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_8/mixw_counts [23232x1x1 array]
+INFO: s3tmat_io.c(117): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_8/tmat_counts [40x3x4 array]
+INFO: s3gau_io.c(381): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_8/gauden_counts with means with vars (2pass) [23232x1x1 vector arrays]
+INFO: main.c(207): Reading and accumulating counts from /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_9
+INFO: s3mixw_io.c(116): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_9/mixw_counts [23232x1x1 array]
+INFO: s3tmat_io.c(117): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_9/tmat_counts [40x3x4 array]
+INFO: s3gau_io.c(381): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/bwaccumdir/Cebuano_buff_9/gauden_counts with means with vars (2pass) [23232x1x1 vector arrays]
+INFO: main.c(321): -2passvar yes
+INFO: main.c(390): Normalizing mean for n_mgau= 23232, n_stream= 1, n_density= 1
+WARN: "gauden.c", line 1564: (mgau= 387, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 388, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 389, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 522, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 523, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 524, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 558, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 559, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 560, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 582, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 583, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 584, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 645, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 646, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 647, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 1353, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 1354, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 1355, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 1554, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 1555, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 1556, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 2130, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 2131, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 2132, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 2532, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 2533, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 2534, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 4473, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 4474, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 4475, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 5136, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 5137, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 5138, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 5226, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 5227, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 5228, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 5397, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 5398, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 5399, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 6327, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 6328, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 6329, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 6759, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 6760, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 6761, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 7056, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 7057, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 7058, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 7104, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 7105, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 7106, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 7122, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 7123, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 7124, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 7128, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 7129, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 7130, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 8148, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 8149, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 8150, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 8151, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 8152, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 8153, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 8442, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 8443, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 8444, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 9594, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 9595, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 9596, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 9705, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 9706, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 9707, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 9792, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 9793, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 9794, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 10119, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 10120, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 10121, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 10311, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 10312, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 10313, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 10461, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 10462, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 10463, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 10776, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 10777, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 10778, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 11646, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 11647, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 11648, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 11670, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 11671, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 11672, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 11841, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 11842, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 11843, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 12660, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 12661, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 12662, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 12711, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 12712, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 12713, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 12882, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 12883, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 12884, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 13221, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 13222, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 13223, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 13314, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 13315, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 13316, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 14064, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 14065, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 14066, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 14157, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 14158, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 14159, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 14313, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 14314, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 14315, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 14718, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 14719, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 14720, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 14802, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 14803, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 14804, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 15069, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 15070, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 15071, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 15792, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 15793, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 15794, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 15885, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 15886, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 15887, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 16446, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 16447, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 16448, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 17211, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 17212, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 17213, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 17259, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 17260, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 17261, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 17313, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 17314, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 17315, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 17679, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 17680, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 17681, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 18333, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 18334, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 18335, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 18615, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 18616, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 18617, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 18810, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 18811, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 18812, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 19128, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 19129, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 19130, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 19197, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 19198, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 19199, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 19200, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 19201, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 19202, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 19281, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 19282, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 19283, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 19833, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 19834, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 19835, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 21159, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 21160, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 21161, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 21390, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 21391, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 21392, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 21432, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 21433, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 21434, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 21657, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 21658, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 21659, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 21729, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 21730, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 21731, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 21834, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 21835, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 21836, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 22065, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 22066, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 22067, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 22074, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 22075, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 22076, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 22101, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 22102, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 22103, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 22140, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 22141, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 22142, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 22497, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 22498, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 22499, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 22932, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 22933, feat= 0, density= 0) never observed
+WARN: "gauden.c", line 1564: (mgau= 22934, feat= 0, density= 0) never observed
+INFO: main.c(414): Normalizing var
+INFO: s3mixw_io.c(232): Wrote /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/model_parameters/Cebuano.cd_cont_untied/mixture_weights [23232x1x1 array]
+INFO: s3tmat_io.c(175): Wrote /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/model_parameters/Cebuano.cd_cont_untied/transition_matrices [40x3x4 array]
+INFO: s3gau_io.c(228): Wrote /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/model_parameters/Cebuano.cd_cont_untied/means [23232x1x1 array]
+INFO: s3gau_io.c(228): Wrote /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/model_parameters/Cebuano.cd_cont_untied/variances [23232x1x1 array]
+Fri Jan  6 22:26:56 2023
+Current Overall Likelihood Per Frame = -150.290225144434
+Convergence ratio = 0.075771222750717
+Likelihoods have converged! Baum Welch training completed!
+******************************TRAINING COMPLETE*************************
+Fri Jan  6 22:26:56 2023

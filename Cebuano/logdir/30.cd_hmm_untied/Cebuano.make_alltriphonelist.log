@@ -1,0 +1,50 @@
+Current configuration:
+[NAME]		[DEFLT]	[VALUE]
+-dictfn			/mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/etc/Cebuano.dic
+-example	no	no
+-fdictfn		/mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/etc/Cebuano.filler
+-help		no	no
+-ignorewpos	no	no
+-inCDmdef		
+-inCImdef		
+-lsnfn			/mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/etc/Cebuano_train.transcription
+-maxtriphones	100000	100000
+-minocc		1	1
+-n_state_pm	3	3
+-oalltphnmdef		
+-ocimdef		
+-ocountfn		
+-ountiedmdef		/mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/model_architecture/Cebuano.untied.mdef
+-phnlstfn		/mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/etc/Cebuano.phone
+-triphnlstfn		
+
+INFO: main.c(95): Will write untied mdef file /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/model_architecture/Cebuano.untied.mdef
+INFO: mk_mdef_gen.c(189): 0 single word triphones in input phone list
+INFO: mk_mdef_gen.c(190): 0 word beginning triphones in input phone list
+INFO: mk_mdef_gen.c(191): 0 word internal triphones in input phone list
+INFO: mk_mdef_gen.c(192): 0 word ending triphones in input phone list
+INFO: mk_mdef_gen.c(280): Reading dict /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/etc/Cebuano.dic
+INFO: mk_mdef_gen.c(322): 7700 words in dict /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/etc/Cebuano.dic
+INFO: mk_mdef_gen.c(280): Reading dict /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/etc/Cebuano.filler
+INFO: mk_mdef_gen.c(322): 3 words in dict /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/etc/Cebuano.filler
+INFO: mk_mdef_gen.c(442): 7703 words in dictionary
+INFO: mk_mdef_gen.c(443): 9065 unique single word triphones in dictionary
+INFO: mk_mdef_gen.c(444): 14280 unique word beginning triphones in dictionary
+INFO: mk_mdef_gen.c(445): 4526 unique word internal triphones in dictionary
+INFO: mk_mdef_gen.c(446): 14208 unique word ending triphones in dictionary
+INFO: mk_mdef_gen.c(479): Out of vocabulary words in transcript will be mapped to SIL!
+INFO: mk_mdef_gen.c(593): 116926 words in transcripts
+INFO: mk_mdef_gen.c(594): 629 single word triphones in transcripts
+INFO: mk_mdef_gen.c(595): 70529 word beginning triphones in transcripts
+INFO: mk_mdef_gen.c(596): 190441 word internal triphones in transcripts
+INFO: mk_mdef_gen.c(597): 70529 word ending triphones in transcripts
+INFO: mk_mdef_gen.c(640): 332128 triphones extracted from transcripts
+INFO: mk_mdef_gen.c(641): 7704 unique triphones extracted from transcripts
+INFO: mk_mdef_gen.c(642): 820 triphones occur once in the transcripts
+INFO: mk_mdef_gen.c(643): 746 triphones occur twice in the transcripts
+INFO: mk_mdef_gen.c(644): 697 triphones occur thrice in the transcripts
+INFO: mk_mdef_gen.c(645): The rest of the triphones occur more than three times
+INFO: mk_mdef_gen.c(646): Count threshold is 1
+INFO: mk_mdef_gen.c(897): 40 n_base, 7704 n_tri
+INFO: mk_mdef_gen.c(969): Wrote mdef file /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/model_architecture/Cebuano.untied.mdef
+Fri Jan  6 22:21:16 2023

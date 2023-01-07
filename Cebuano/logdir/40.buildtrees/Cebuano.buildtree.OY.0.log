@@ -1,0 +1,141 @@
+Current configuration:
+[NAME]		[DEFLT]	[VALUE]
+-allphones	no	no
+-cntthresh	0.00001	1.000000e-05
+-csplitmax	100	2000
+-csplitmin	1	1
+-csplitthr	8e-4	0.000000e+00
+-example	no	no
+-fullvar	no	no
+-help		no	no
+-meanfn			/mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/model_parameters/Cebuano.cd_cont_untied/means
+-mixwfn			/mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/model_parameters/Cebuano.cd_cont_untied/mixture_weights
+-moddeffn		/mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/model_architecture/Cebuano.untied.mdef
+-mwfloor	1e-4	1.000000e-08
+-phone			OY
+-psetfn			/mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/model_architecture/Cebuano.tree_questions
+-ssplitmax	5	7
+-ssplitmin	1	1
+-ssplitthr	8e-4	0.000000e+00
+-state			0
+-stwt			1.0,0.05,0.0,
+-treefn			/mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/trees/Cebuano.unpruned/OY-0.dtree
+-ts2cbfn	.semi.	.cont.
+-varfloor	0.00001	1.000000e-05
+-varfn			/mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/model_parameters/Cebuano.cd_cont_untied/variances
+
+INFO: main.c(223): Reading: /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/model_architecture/Cebuano.untied.mdef
+INFO: model_def_io.c(573): Model definition info:
+INFO: model_def_io.c(574): 7744 total models defined (40 base, 7704 tri)
+INFO: model_def_io.c(575): 30976 total states
+INFO: model_def_io.c(576): 23232 total tied states
+INFO: model_def_io.c(577): 120 total tied CI states
+INFO: model_def_io.c(578): 40 total tied transition matrices
+INFO: model_def_io.c(579): 4 max state/model
+INFO: model_def_io.c(580): 4 min state/model
+INFO: main.c(242): Building trees for [OY AA AH b] through [OY R AH i]
+INFO: main.c(268): Covering states |[17949 17969]| == 21
+INFO: main.c(275): Reading: /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/model_parameters/Cebuano.cd_cont_untied/mixture_weights
+INFO: s3mixw_io.c(172): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/model_parameters/Cebuano.cd_cont_untied/mixture_weights [21x1x1 array]
+INFO: main.c(311): 7 of 7 models have observation count greater than 0.000010
+INFO: main.c(95): nrm stwt: 0.952 0.048 0.000 
+INFO: s3gau_io.c(168): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/model_parameters/Cebuano.cd_cont_untied/means [23232x1x1 array]
+INFO: s3gau_io.c(168): Read /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/model_parameters/Cebuano.cd_cont_untied/variances [23232x1x1 array]
+INFO: main.c(549): Reading: /mnt/c/users/robin/onedrive/desktop/cmu/Cebuano/model_architecture/Cebuano.tree_questions
+INFO: main.c(587): 180 total simple questions (172 phone; 8 word bndry)
+INFO: main.c(589): 42 Left Only questions, and 42 Right Only questions
+INFO: dtree.c(1439): stop. leaf nodes are specific
+INFO: dtree.c(1478): Final simple tree
+|( WDBNDRY_B 0 -1.964e+04 3.359e+02 8.492e+01
+|    ( - -1.591e+03 1 0)
+|    ( QUESTION12 -1 -1.771e+04 2.780e+02 7.592e+01
+|        ( QUESTION10 1 -1.158e+04 2.085e+02 4.964e+01
+|            ( - -2.204e+03 1 0)
+|            ( QUESTION0_0_R 1 -9.170e+03 1.661e+02 3.964e+01
+|                ( - -6.923e+03 1 0)
+|                ( - -2.081e+03 1 0)))
+|        ( QUESTION0_9_R 1 -5.852e+03 2.562e+02 2.628e+01
+|            ( - -2.366e+03 1 0)
+|            ( QUESTION0_0_R 1 -3.230e+03 1.901e+02 1.600e+01
+|                ( - -1.704e+03 1 0)
+|                ( - -1.336e+03 1 0)))))
+s>    ( WDBNDRY_B 0 -1.964e+04 3.359e+02 8.492e+01
+s>        ( - -1.591e+03 1 0)
+s>        ( QUESTION12 -1 -1.771e+04 2.780e+02 7.592e+01
+s>            ( QUESTION10 1 -1.158e+04 2.085e+02 4.964e+01
+s>                ( - -2.204e+03 1 0)
+s>                ( QUESTION0_0_R 1 -9.170e+03 1.661e+02 3.964e+01
+s>                    ( - -6.923e+03 1 0)
+s>                    ( - -2.081e+03 1 0)))
+s>            ( QUESTION0_9_R 1 -5.852e+03 2.562e+02 2.628e+01
+s>                ( - -2.366e+03 1 0)
+s>                ( QUESTION0_0_R 1 -3.230e+03 1.901e+02 1.600e+01
+s>                    ( - -1.704e+03 1 0)
+s>                    ( - -1.336e+03 1 0)))))INFO: dtree.c(1315): Comp split 0
+INFO: dtree.c(1439): stop. leaf nodes are specific
+INFO: dtree.c(1478): Final simple tree
+|( QUESTION12 -1 -1.771e+04 2.780e+02 7.592e+01
+|    ( QUESTION10 1 -1.158e+04 2.085e+02 4.964e+01
+|        ( - -2.204e+03 1 0)
+|        ( QUESTION0_0_R 1 -9.170e+03 1.661e+02 3.964e+01
+|            ( - -6.923e+03 1 0)
+|            ( - -2.081e+03 1 0)))
+|    ( QUESTION0_9_R 1 -5.852e+03 2.562e+02 2.628e+01
+|        ( - -2.366e+03 1 0)
+|        ( QUESTION0_0_R 1 -3.230e+03 1.901e+02 1.600e+01
+|            ( - -1.704e+03 1 0)
+|            ( - -1.336e+03 1 0))))
+s>    ( QUESTION12 -1 -1.771e+04 2.780e+02 7.592e+01
+s>        ( QUESTION10 1 -1.158e+04 2.085e+02 4.964e+01
+s>            ( - -2.204e+03 1 0)
+s>            ( QUESTION0_0_R 1 -9.170e+03 1.661e+02 3.964e+01
+s>                ( - -6.923e+03 1 0)
+s>                ( - -2.081e+03 1 0)))
+s>        ( QUESTION0_9_R 1 -5.852e+03 2.562e+02 2.628e+01
+s>            ( - -2.366e+03 1 0)
+s>            ( QUESTION0_0_R 1 -3.230e+03 1.901e+02 1.600e+01
+s>                ( - -1.704e+03 1 0)
+s>                ( - -1.336e+03 1 0))))INFO: dtree.c(1315): Comp split 1
+INFO: dtree.c(1439): stop. leaf nodes are specific
+INFO: dtree.c(1478): Final simple tree
+|( QUESTION0_0_R 1 -3.230e+03 1.901e+02 1.600e+01
+|    ( - -1.704e+03 1 0)
+|    ( - -1.336e+03 1 0))
+s>    ( QUESTION0_0_R 1 -3.230e+03 1.901e+02 1.600e+01
+s>        ( - -1.704e+03 1 0)
+s>        ( - -1.336e+03 1 0))INFO: dtree.c(1439): stop. leaf nodes are specific
+INFO: dtree.c(1478): Final simple tree
+|( QUESTION10 1 -1.415e+04 2.097e+02 5.991e+01
+|    ( - -2.204e+03 1 0)
+|    ( QUESTION12 -1 -1.174e+04 1.999e+02 4.991e+01
+|        ( QUESTION0_0_R 1 -9.170e+03 1.661e+02 3.964e+01
+|            ( - -6.923e+03 1 0)
+|            ( - -2.081e+03 1 0))
+|        ( - -2.366e+03 1 0)))
+s>    ( QUESTION10 1 -1.415e+04 2.097e+02 5.991e+01
+s>        ( - -2.204e+03 1 0)
+s>        ( QUESTION12 -1 -1.174e+04 1.999e+02 4.991e+01
+s>            ( QUESTION0_0_R 1 -9.170e+03 1.661e+02 3.964e+01
+s>                ( - -6.923e+03 1 0)
+s>                ( - -2.081e+03 1 0))
+s>            ( - -2.366e+03 1 0)))INFO: dtree.c(1315): Comp split 2
+INFO: dtree.c(1439): stop. leaf nodes are specific
+INFO: dtree.c(1478): Final simple tree
+|( QUESTION0_0_R 1 -9.170e+03 1.661e+02 3.964e+01
+|    ( - -6.923e+03 1 0)
+|    ( - -2.081e+03 1 0))
+s>    ( QUESTION0_0_R 1 -9.170e+03 1.661e+02 3.964e+01
+s>        ( - -6.923e+03 1 0)
+s>        ( - -2.081e+03 1 0))INFO: dtree.c(1439): stop. leaf nodes are specific
+INFO: dtree.c(1478): Final simple tree
+|( QUESTION0_0_R 1 -4.766e+03 1.959e+02 2.028e+01
+|    ( - -2.204e+03 1 0)
+|    ( - -2.366e+03 1 0))
+s>    ( QUESTION0_0_R 1 -4.766e+03 1.959e+02 2.028e+01
+s>        ( - -2.204e+03 1 0)
+s>        ( - -2.366e+03 1 0))INFO: dtree.c(1315): Comp split 3
+INFO: dtree.c(1315): Comp split 4
+INFO: dtree.c(1315): Comp split 5
+INFO: dtree.c(1315): Comp split 6
+INFO: dtree.c(1318): stop. leaf nodes are specific
+Fri Jan  6 22:27:38 2023
